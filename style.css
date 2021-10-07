@@ -17,11 +17,11 @@
     border: solid black;
 }
 
-@media(max-width: 445px){
+/* @media(max-width: 445px){
     #border{
         width: calc(80%/7);
     }
-}
+} */
 
 
 .player-one{
